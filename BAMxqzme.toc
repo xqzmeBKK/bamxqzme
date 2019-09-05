@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: |cff33ffccBAM|cffffffffxqzme
+## Author: xqzme, 2019
+## Notes: BAM addon - will announce critical damage. BAM!
+## Version: 0.1
+## SavedVariables: BAMxqzmeSettings
+
+# main
+BAMxqzme.lua
